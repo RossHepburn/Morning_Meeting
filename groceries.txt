@@ -1,9 +1,11 @@
 Eggs
 Milk
 Cheese
-Irn Bur
+Irn Bru
 Tea
-Cheese
 Bacon
-Milk
+Pizza
+Fireworks
+Beer
+Chips
 Coffee
