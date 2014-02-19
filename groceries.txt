@@ -1,9 +1,9 @@
-1. Pizza
-2. Milk
-3. Cheese
-4. Irn Bur
-5. Fireworks
-6. Cheese
-7. Bacon
-8. Beer
-9. Chips
+Pizza
+Milk
+Cheese
+Irn Bur
+Fireworks
+Cheese
+Bacon
+Beer
+Chips
