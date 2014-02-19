@@ -5,3 +5,5 @@
 5. Tea
 6. Cheese
 7. Bacon
+8. Milk
+9. Coffee
