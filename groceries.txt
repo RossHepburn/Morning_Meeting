@@ -1,9 +1,9 @@
-1. Eggs
-2. Milk
-3. Cheese
-4. Irn Bur
-5. Tea
-6. Cheese
-7. Bacon
-8. Milk
-9. Coffee
+Eggs
+Milk
+Cheese
+Irn Bur
+Tea
+Cheese
+Bacon
+Milk
+Coffee
